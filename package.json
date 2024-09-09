@@ -9,8 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "asciiart-logo": "^0.2.6",
-    "inquirer": "8.2.4",
-    "pg": "^8.11.3"
-  }
+    "asciiart-logo": "^0.2.7",
+    "inquirer": "^8.2.4",
+    "pg": "^8.12.0"
+  },
+  "keywords": []
 }
