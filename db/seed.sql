@@ -2,6 +2,7 @@
 
 INSERT INTO sector
     (sector_name)
+    
 VALUES
     ('Creative Services'),
     ('Innovation Lab'),
@@ -10,6 +11,7 @@ VALUES
 
 INSERT INTO position
     (position_title, position_salary, sector_id)
+
 VALUES
     ('Creative Director', 98000, 1),
     ('Content Strategist', 58000, 1),
@@ -22,6 +24,7 @@ VALUES
 
 INSERT INTO staff
     (given_name, surname, position_id, mentor_id)
+
 VALUES
     ('Olivia', 'Peterson', 1, NULL),
     ('Liam', 'Morris', 2, 1),
